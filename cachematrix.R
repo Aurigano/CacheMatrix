@@ -1,4 +1,4 @@
-## Write a short comment describing this function
+## Function for creating a cache matrix
 
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
@@ -16,7 +16,7 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## Write a short comment describing this function
+## Function for inversing the matrix
 
 cacheSolve <- function(x, ...) {
   ## Return a matrix that is the inverse of 'x'
